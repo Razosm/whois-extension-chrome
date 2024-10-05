@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Whois Lookup",
+  "version": "1.0",
+  "description": "Current site's domain whois lookup",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}
