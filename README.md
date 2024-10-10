@@ -1,6 +1,6 @@
 ### Installing the Extension in Chrome
 
-Put all the files you have created into a folder. For example, name the folder `whois-extension`.
+Put all the files you have dowsloaded into a folder. For example, name the folder `whois-extension`.
 
 1.  Go to the Chrome browser and navigate to **chrome://extensions**.
 2.  Enable **Developer mode** in the top right corner.
