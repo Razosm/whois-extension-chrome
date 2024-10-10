@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Whois Lookup",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Current site's domain whois lookup",
   "permissions": ["tabs"],
   "action": {
